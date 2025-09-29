@@ -154,13 +154,10 @@ streamlit run app/app.py
 - **Extensions**: Add more products, real-time data feeds, A/B testing for price changes.
 - **License**: MIT (or specify as needed).
 
-## Contributing
+## Contributors
 
-1. Fork the repo.
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`).
-3. Commit changes (`git commit -m 'Add some AmazingFeature'`).
-4. Push to branch (`git push origin feature/AmazingFeature`).
-5. Open a Pull Request.
+Hibaanwer
+Gabriel ps
 
 For issues or questions, open a GitHub issue.
 
