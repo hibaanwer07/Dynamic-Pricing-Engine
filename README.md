@@ -157,9 +157,11 @@ streamlit run app/app.py
 ## Contributors
 
 Hibaanwer
+
 Gabriel ps
 
-For issues or questions, open a GitHub issue.
+
+
 
 ---
 
