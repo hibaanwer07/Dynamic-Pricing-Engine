@@ -4,7 +4,7 @@ A machine learning-powered dynamic pricing system for e-commerce, specifically t
 
 ## Features
 
-- **AI-Powered Price Predictions**: XGBoost model trained on features like units sold, stock levels, competitor prices (Flipkart, Amazon, Myntra), customer interactions (views, clicks, add-to-cart), and temporal factors (day of week, lags).
+- **AI-Powered Price Predictions**: XGBoost model trained on features like units sold, stock levels, competitor prices (Flipkart, Amazon), customer interactions (views, clicks, add-to-cart), and temporal factors (day of week, lags).
 - **Interactive Dashboard**: Streamlit-based UI with sections for:
   - Sales & Demand trends (revenue, units sold, views).
   - Competitor price comparisons.
@@ -166,4 +166,4 @@ For issues or questions, open a GitHub issue.
 
 ---
 
-© 2024 Dynamic Pricing Engine. Built with ❤️ using Python and ML.
+© 2024 Dynamic Pricing Engine. Built  using Python and ML.
